@@ -1,1 +1,1 @@
-# BitcoinToSQLite
+# Получение данных USD, GBR, EUR по биткоину и сохранение их рейта в SQLite
